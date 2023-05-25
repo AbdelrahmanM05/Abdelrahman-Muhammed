@@ -40,8 +40,14 @@
     <a href="" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a>
-    <a href="" target="_blank" rel="noopener noreferrer">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a>
+    <a href="https://redux-toolkit.js.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="reduxjs" width="40" height="40"/>
+  </a>
+     <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+      <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
 </p>
